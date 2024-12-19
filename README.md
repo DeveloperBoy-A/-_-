@@ -1,8 +1,8 @@
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
-<h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs JISSHU BOT </h1>
+<h1> <img src="https://iili.io/2wp3N9f.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫_𝐁𝐨𝐲™(𝓐𝓷𝓴𝓲𝓽_𝓜𝓮𝓮𝓷𝓪😝) </h1>
 <p align="center">
-    <b>𝗝𝗜𝗦𝗦𝗛𝗨 𝗕𝗢𝗧</b><br>
+    <b>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫_𝐁𝐨𝐲™(𝓐𝓷𝓴𝓲𝓽_𝓜𝓮𝓮𝓷𝓪😝)</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousX1025/count.svg" />
 </p>
 
@@ -19,7 +19,7 @@
 ```python3
 class Anonymous():
     def __init__(self):
-        self.name = ['Jisshubot']
+        self.name = ['𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫_𝐁𝐨𝐲™(𝓐𝓷𝓴𝓲𝓽_𝓜𝓮𝓮𝓷𝓪😝)']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
@@ -41,9 +41,9 @@ class Anonymous():
         ]
  ```
 
-[<img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>](https://github.com/Jisshubot)
+[<img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>](https://github.com/𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫_𝐁𝐨𝐲™(𝓐𝓷𝓴𝓲𝓽𝓜𝓮𝓮𝓷𝓪)
 
-<h1> <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ JISSHU </h1>
+<h1> <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫_𝐁𝐨𝐲™(𝓐𝓷𝓴𝓲𝓽_𝓜𝓮𝓮𝓷𝓪😝) </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Jisshubot&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Jisshubot)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Jisshubot)
 
